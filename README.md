@@ -1,3 +1,5 @@
+![139818260-1d656ae6-8abb-455f-9c1a-5b036734e484](https://github.com/user-attachments/assets/fad70dc4-9911-47f3-835b-2d5c4d213cfe)
+
 # Zomato Data Analysis
 This project presents an exploratory data analysis (EDA) of the Zomato dataset to uncover insights into restaurant trends, locations, cuisines, ratings, and cost structures. The analysis helps understand the food culture and user preferences in different cities, with a focus on India.
 
