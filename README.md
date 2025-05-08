@@ -2,7 +2,7 @@
 This project presents an exploratory data analysis (EDA) of the Zomato dataset to uncover insights into restaurant trends, locations, cuisines, ratings, and cost structures. The analysis helps understand the food culture and user preferences in different cities, with a focus on India.
 
 # Project Objectives
-Perform data cleaning and preprocessing
+*Perform data cleaning and preprocessing
 
 Analyze the distribution of restaurants across cities
 
