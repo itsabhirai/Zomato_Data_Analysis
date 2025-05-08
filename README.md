@@ -15,7 +15,7 @@ Visualize insights using Python libraries
 # Dataset
 The dataset includes information about restaurants listed on the Zomato platform. Key features include:
 
-Restaurant Name, Location, Cuisines, Average Cost for Two
+Restaurant Name, Location, Cuisines, Average Cost for Two,
 
 Rating, Votes, Online Delivery Availability, Table Booking Availability
 
